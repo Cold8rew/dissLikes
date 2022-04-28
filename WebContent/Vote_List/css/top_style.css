@@ -1,0 +1,23 @@
+@charset "EUC-KR";
+
+.font{
+	font-weight:bold;
+	font-size:12pt;
+}
+
+/* .start{	
+	position:absolute;
+	margin-top:8%;
+	margin-left:10%;
+	margin-bottom:-10%;
+} */
+a{ 
+	color: black;
+}
+
+.end{
+ 	font-size: 20px;
+	float:right;
+}
+
+ a:hover { color: #006DD7; text-decoration: underline;}
